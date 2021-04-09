@@ -1,0 +1,182 @@
+[
+  {
+    "id": "8gs53h",
+    "address": {
+      "street": "Rua X",
+      "number": 123
+    },
+    "price": 600.000,
+    "bookmarked": true,
+    "area": 122,
+    "parkingSpots": 1,
+    "bedrooms": 2,
+    "picture": "https://via.placeholder.com/300",
+    "status": "AVAILABLE",
+    "childrenPlayground": false
+  },
+  {
+    "id": "8hb531",
+    "address": {
+      "street": "Alameda Padre Nobre Anchieta",
+      "number": 119
+    },
+    "price": 740.000,
+    "bookmarked": false,
+    "area": 140,
+    "parkingSpots": 3,
+    "bedrooms": 3,
+    "picture": "https://via.placeholder.com/300",
+    "status": "COMING_SOON",
+    "childrenPlayground": true
+  },
+  {
+    "id": "89853a",
+    "address": {
+      "street": "Rua Z",
+      "number": 43
+    },
+    "price": 540.000,
+    "bookmarked": false,
+    "area": 65,
+    "parkingSpots": 0,
+    "bedrooms": 1,
+    "picture": "https://via.placeholder.com/300",
+    "status": "SOLD",
+    "childrenPlayground": false
+  },
+  {
+    "id": "8zs45o",
+    "address": {
+      "street": "Rua Y",
+      "number": 763
+    },
+    "price": 400.000,
+    "bookmarked": true,
+    "area": 60,
+    "parkingSpots": 1,
+    "bedrooms": 1,
+    "picture": "https://via.placeholder.com/300",
+    "status": "AVAILABLE",
+    "childrenPlayground": false
+  },
+  {
+    "id": "8uy872",
+    "address": {
+      "street": "Avenida H",
+      "number": 119
+    },
+    "price": 780.000,
+    "bookmarked": false,
+    "area": 130,
+    "parkingSpots": 2,
+    "bedrooms": 2,
+    "picture": "https://via.placeholder.com/300",
+    "status": "AVAILABLE",
+    "childrenPlayground": true
+  },
+  {
+    "id": "8tt53z",
+    "address": {
+      "street": "Rua Cardeal Arco Verde",
+      "number": 87
+    },
+    "price": 1500.000,
+    "bookmarked": true,
+    "area": 160,
+    "parkingSpots": 3,
+    "bedrooms": 3,
+    "picture": "https://via.placeholder.com/300",
+    "status": "AVAILABLE",
+    "childrenPlayground": true
+  },
+  {
+    "id": "8bb53a",
+    "address": {
+      "street": "Rua A",
+      "number": 94
+    },
+    "price": 440.000,
+    "bookmarked": false,
+    "area": 62,
+    "parkingSpots": 1,
+    "bedrooms": 1,
+    "picture": "https://via.placeholder.com/300",
+    "status": "AVAILABLE",
+    "childrenPlayground": false
+  },
+  {
+    "id": "6uyrfo",
+    "address": {
+      "street": "Rua U",
+      "number": 1987
+    },
+    "price": 1400.000,
+    "bookmarked": false,
+    "area": 180,
+    "parkingSpots": 2,
+    "bedrooms": 3,
+    "picture": "https://via.placeholder.com/300",
+    "status": "AVAILABLE",
+    "childrenPlayground": false
+  },
+  {
+    "id": "8ut531",
+    "address": {
+      "street": "Rua Z",
+      "number": 43
+    },
+    "price": 540.000,
+    "bookmarked": false,
+    "area": 65,
+    "parkingSpots": 0,
+    "bedrooms": 1,
+    "picture": "https://via.placeholder.com/300",
+    "status": "SOLD",
+    "childrenPlayground": false
+  },
+  {
+    "id": "7uy59o",
+    "address": {
+      "street": "Alameda das Flores",
+      "number": 119
+    },
+    "price": 2740.000,
+    "bookmarked": false,
+    "area": 255,
+    "parkingSpots": 3,
+    "bedrooms": 4,
+    "picture": "https://via.placeholder.com/300",
+    "status": "COMING_SOON",
+    "childrenPlayground": true
+  },
+  {
+    "id": "8uy872",
+    "address": {
+      "street": "Avenida H",
+      "number": 119
+    },
+    "price": 780.000,
+    "bookmarked": false,
+    "area": 130,
+    "parkingSpots": 2,
+    "bedrooms": 2,
+    "picture": "https://via.placeholder.com/300",
+    "status": "AVAILABLE",
+    "childrenPlayground": true
+  },
+  {
+    "id": "8hb53o",
+    "address": {
+      "street": "Alameda Viera de Carvalho",
+      "number": 119
+    },
+    "price": 745.000,
+    "bookmarked": false,
+    "area": 140,
+    "parkingSpots": 3,
+    "bedrooms": 3,
+    "picture": "https://via.placeholder.com/300",
+    "status": "COMING_SOON",
+    "childrenPlayground": true
+  }
+]
